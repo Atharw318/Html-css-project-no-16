@@ -1,0 +1,32 @@
+body{
+    background-color:#19194F ;
+
+}
+.mainheading{
+    text-align: center;
+    color: #BA991D;
+}
+.headingfirst{
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.headingsecond{
+    margin-left: 30px;
+}
+.headingthree
+{
+    margin-bottom: 20px;
+}
+@media screen and ( max-width : 425px){
+    .mainheading{
+        text-align: center;
+    }
+    
+    .headingfirst{
+    margin: 0 10px;
+     }
+     .headingsecond{
+        margin-right: 30px;
+     }
+ }
